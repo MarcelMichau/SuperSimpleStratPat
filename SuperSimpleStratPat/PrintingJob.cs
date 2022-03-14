@@ -1,5 +1,4 @@
 ﻿namespace SuperSimpleStratPat;
-
 internal class PrintingJob
 {
     private readonly IEnumerable<IPrinter> _printers;
